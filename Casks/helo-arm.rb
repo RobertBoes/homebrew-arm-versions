@@ -9,7 +9,7 @@ cask "helo-arm" do
     homepage "https://usehelo.com/"
   
     livecheck do
-        url "https://usehelo.com/download/latest/mac"
+        url "https://usehelo.com/download/latest/apple-silicon"
         strategy :header_match
     end
   
